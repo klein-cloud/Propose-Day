@@ -1,13 +1,13 @@
 export const messageData = {
-  title: 'Happy National Princess Day 👑',
-  subtitle: 'To my favorite princess — today, and every day.',
-  body: `Hey princess,
+  title: 'Happy propose day',
+  subtitle: 'To my lovely sigma girl — today, and every day.',
+  body: `Dear Komla,
 
-I found something pretty today and it made me think of you — soft, bright, and impossible not to smile at. I wanted to celebrate you — your kindness, your laugh, the way you brighten my days.
+After catching a glance of you in the concert, I developed a crush on some unknown girl. When you first texted me in FB, I thought this is fate. Since, that day we talked a lot, for an entire year. Every moment with you, irl or virtual....I feel the happiest.
 
-You're my queen of small things and big heart. Happy National Princess Day. 🌸
+You're the most beautiful girl in my life. You're my first and only love. I will cherish you forever. I love you a lot.
 
-— With all my love, Rushi`,
+— With all my love, 2 takar Rand`,
   cta: 'Open your gift ✨',
   toast: {
     copied: 'Message copied! Send it with a heart 💌',

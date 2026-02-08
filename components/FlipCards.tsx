@@ -228,8 +228,7 @@ export default function FlipCards({ onRestart }: FlipCardsProps) {
                 All Messages Unlocked!
               </h3>
               <p className="text-sm text-[#9a4c73] leading-relaxed">
-                Each message is a piece of my heart that belongs to you forever.
-                ✨
+                With love your, Hijraboii
               </p>
               <div className="space-y-2.5 pt-1">
                 <button

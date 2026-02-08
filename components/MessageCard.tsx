@@ -291,12 +291,12 @@ export default function MessageCard({
                               className="mb-6 text-justify"
                               style={{ textIndent: '2rem' }}
                             >
-                              Every moment with you feels like a beautiful dream
-                              that I never want to wake up from. I want you to
-                              know that you are the most precious person in my
-                              life. Every day with you is a gift, and I&apos;m
-                              grateful for every second we share together. You
-                              make me want to be the best version of myself.
+                              You make me the happiest person. You are perfect
+                              and everything I have ever wanted. Having you in 
+                              my life is the best feeling for me. I want to spend
+                              every day for the rest of my life with you, and I&apos;m
+                              grateful for you being so much patient with me. I
+                              will be with you forever, under any circumstances.
                             </div>
                             <div className="mt-8 ml-auto w-fit">
                               <div className="font-medium text-[#f04299]">

@@ -2,9 +2,9 @@
 
 <div align="center">
 
-## 🌐 **[👉 VIEW LIVE SITE 👈](https://happy-princess-dayy.netlify.app/)**
+## 🌐 **[👉 VIEW LIVE SITE 👈](https://happy-propose-day.Prateek.app/)**
 
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-happy--princess--dayy.netlify.app-FF69B4?style=for-the-badge)](https://happy-princess-dayy.netlify.app/)
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-happy--propose--dayy.netlify.app-FF69B4?style=for-the-badge)](https://happy-propose-dayy.netlify.app/)
 
 </div>
 
